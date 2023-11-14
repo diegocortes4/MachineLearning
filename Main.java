@@ -1,10 +1,3 @@
-import org.apache.commons.math3.analysis.function.Constant;
-import org.apache.commons.math3.analysis.function.HarmonicOscillator;
-import org.apache.commons.math3.analysis.function.Log;
-import org.apache.commons.math3.analysis.function.Sigmoid;
-import org.apache.commons.math3.analysis.function.Sqrt;
-import org.apache.commons.math3.analysis.function.Tan;
-
 public class MachineLearningExample {
 
     public static void main(String[] args) {
